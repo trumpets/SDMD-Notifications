@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Notifications</string>
     <string name="create_notification">Create Notification</string>
+
+    <string name="notif_channel_title">All Notifications</string>
+    <string name="notif_channel_body">Main notification channel</string>
 </resources>
